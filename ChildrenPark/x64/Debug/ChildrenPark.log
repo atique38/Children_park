@@ -1,0 +1,127 @@
+﻿  main.cpp
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(86,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(86,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(165,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(674,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(638,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(638,101): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(638,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(638,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(639,13): warning C4101: 'translateMatrixprev': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(833,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(901,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(901,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(904,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(914,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(920,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(921,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1534,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1542,107): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1574,107): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1546,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1546,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1659,40): warning C4101: 'translateFromPivotOrgMain': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1659,15): warning C4101: 'translateToPivotOrgMain': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1661,15): warning C4101: 'translateToPivotOrgLocal': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1661,41): warning C4101: 'translateFromPivotOrgLocal': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1830,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1836,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1753,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1753,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1894,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1910,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1917,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1926,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1933,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1940,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1949,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1870,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1867,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(1870,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2122,98): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2143,105): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2150,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2157,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2164,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2179,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2187,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2266,77): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2274,77): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2281,77): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2290,77): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2310,82): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2316,74): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2322,82): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2329,74): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2337,82): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2343,74): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2042,97): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2355,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2362,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2369,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2375,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2381,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2388,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2394,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2401,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2407,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2413,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2420,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2427,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2434,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2441,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2448,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2455,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2462,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2468,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2474,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2480,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2487,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2493,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2499,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2506,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2513,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2349,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2524,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2525,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2529,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2595,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2621,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2649,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2656,74): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2603,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2677,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2683,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2697,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2703,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2711,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2719,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2727,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2663,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2760,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2768,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2774,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2780,102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2812,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2822,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2832,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2842,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2733,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2872,79): warning C4101: 'translateToPivot': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2872,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2872,67): warning C4101: 'rotateTemp': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2872,97): warning C4101: 'translateFromPivot': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2947,77): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2954,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(2998,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3053,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3076,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3083,96): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3033,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3030,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3033,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3095,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3167,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3187,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\main.cpp(3198,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChildrenPark.vcxproj -> F:\cse 2k19\4-2\cse-4208\projects\ChildrenPark\x64\Debug\ChildrenPark.exe
